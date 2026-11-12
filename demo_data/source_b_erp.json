@@ -1,0 +1,22 @@
+{
+  "exportMeta": {
+    "system": "ERP-EXPORT",
+    "exportedAt": "2026-10-13T08:00:00",
+    "timezone": "Asia/Shanghai"
+  },
+  "records": [
+    {"bizNo": "BIZ-1001", "lastName": "Zhang", "firstName": "Wei", "amount": 1200, "orderDate": "2026-10-01T09:30:00", "salesChannel": "online", "recordStatus": "COMPLETED", "dataTier": 2},
+    {"bizNo": "BIZ-1002", "lastName": "Li", "firstName": "Na", "amount": 850.5, "orderDate": "2026-10-02T14:05:00", "salesChannel": "store", "recordStatus": "COMPLETED", "dataTier": 2},
+    {"bizNo": "BIZ-1003", "lastName": "Wang", "firstName": "Fang", "amount": 3200, "orderDate": "2026-10-03T11:20:00", "salesChannel": null, "recordStatus": "COMPLETED", "dataTier": 1},
+    {"bizNo": "BIZ-1003", "lastName": "Wang", "firstName": "Fang", "amount": 3200, "orderDate": "2026-10-03T11:20:00", "salesChannel": "dealer", "recordStatus": "COMPLETED", "dataTier": 2},
+    {"bizNo": "BIZ-1004", "lastName": "Liu", "firstName": "Qiang", "amount": 499.99, "orderDate": "2026-10-04T16:40:00", "salesChannel": "online", "recordStatus": "REFUNDED", "dataTier": 1},
+    {"bizNo": "BIZ-1005", "lastName": "Chen", "firstName": "Jie", "amount": 1560.0, "orderDate": "2026-10-05T10:10:00", "salesChannel": "dealer", "recordStatus": "COMPLETED", "dataTier": 2},
+    {"bizNo": "BIZ-1006", "lastName": "Yang", "firstName": "Yang", "amount": 760, "orderDate": "2026-10-16T08:15:00", "salesChannel": "online", "recordStatus": "COMPLETED", "dataTier": 1},
+    {"bizNo": "BIZ-1007", "lastName": "Zhao", "firstName": "Min", "amount": "230.75", "orderDate": "2026-10-07T13:00:00", "salesChannel": "store", "recordStatus": "COMPLETED", "dataTier": 2},
+    {"bizNo": "BIZ-1008", "lastName": "Huang", "firstName": "Lei", "amount": 980, "orderDate": "2026-10-08T17:30:00", "salesChannel": null, "recordStatus": "CANCELLED", "dataTier": 1},
+    {"bizNo": "BIZ-1009", "lastName": "Zhou", "firstName": "Tao", "amount": 5120, "orderDate": "2026-10-09T09:00:00", "salesChannel": "online", "recordStatus": "COMPLETED", "dataTier": 2},
+    {"bizNo": "BIZ-1010", "lastName": "Wu", "firstName": "Jing", "amount": 430, "orderDate": "2026-10-10T15:45:00", "salesChannel": "store", "recordStatus": "COMPLETED", "dataTier": 2},
+    {"bizNo": "BIZ-1012", "lastName": "Feng", "firstName": "Yuan", "amount": 1999, "orderDate": "2026-10-12T10:00:00", "salesChannel": "store", "recordStatus": "COMPLETED", "dataTier": 2},
+    {"bizNo": "BIZ-1098", "lastName": "He", "firstName": "Jin", "amount": 305.2, "orderDate": "2026-02-30T10:00:00", "salesChannel": "online", "recordStatus": "COMPLETED", "dataTier": 1}
+  ]
+}
